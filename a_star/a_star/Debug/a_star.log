@@ -1,0 +1,7 @@
+﻿  a_star.cpp
+c:\users\m7m\documents\visual studio 2015\projects\a_star\a_star\a_star.cpp(385): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\m7m\documents\visual studio 2015\projects\a_star\a_star\a_star.cpp(388): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\m7m\documents\visual studio 2015\projects\a_star\a_star\a_star.cpp(411): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\m7m\documents\visual studio 2015\projects\a_star\a_star\a_star.cpp(430): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  a_star.vcxproj -> C:\Users\M7M\Documents\Visual Studio 2015\Projects\a_star\Debug\a_star.exe
+  a_star.vcxproj -> C:\Users\M7M\Documents\Visual Studio 2015\Projects\a_star\Debug\a_star.pdb (Full PDB)
